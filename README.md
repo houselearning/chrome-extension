@@ -67,5 +67,6 @@ Q: Is there offline functionality?
 A: Key micro-lessons are cached for quick offline reference.
 
 ## Credits & license
-[Apache Licence 2.0](https://github.com/houselearning/.github/blob/main/LICENSE)
+[Apache Licence 2.0](https://github.com/houselearning/chrome-extension/blob/main/LICENSE)
+
 

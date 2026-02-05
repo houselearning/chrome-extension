@@ -1,5 +1,8 @@
 # HouseLearning — Chrome Extension
 
+ > 💡
+ > HouseLearning Chrome Extension is still in development, so there are no official releases. If you want to make a unofficial release, please do so by forking this repository, and making the changes there.
+
 HouseLearning is a Chrome extension that brings curated home-improvement learning, quick tips and contextual help directly into your browser — ideal for research, shopping and content discovery while browsing.
 
 ## Quick overview
@@ -68,5 +71,6 @@ A: Key micro-lessons are cached for quick offline reference.
 
 ## Credits & license
 [Apache Licence 2.0](https://github.com/houselearning/chrome-extension/blob/main/LICENSE)
+
 
 
